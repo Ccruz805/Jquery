@@ -1,0 +1,45 @@
+html{
+  background-color:lightblue;
+}
+
+h1{
+  padding-top:100px;
+}
+.Title{
+  padding-top:10px;
+}
+
+.SSS{
+	display:none;
+}
+
+.Answer1{
+  display:none;
+  padding-top:50px;
+}
+
+
+
+
+.ASA{
+  display:none;
+}
+
+.Answer2{
+  display:none;
+  padding-top:50px;
+}
+
+
+
+
+.SAS{
+  display:none;
+}
+
+
+.Answer3{
+  display:none;
+  padding-top:50px;
+
+}
